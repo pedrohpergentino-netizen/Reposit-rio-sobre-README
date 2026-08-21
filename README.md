@@ -1,1 +1,3 @@
 # Reposit-rio-sobre-README
+
+Boa noite, meu nome é Pedro tenho 20 anos, sou estudante do curso de ADS na faculdade da UNIPÊ,estou atualmente trabalhando na MDR Saúde que é uma empresa de vendas e consignação de equipamento cirúrgico, onde atuo como T.I a mais de 7 meses. No meu dia a dia utilizo o GLPI como ferramenta para visualizar os chamados dos usuários e utilizo o processo da empresa para resolver os problemas relacionados, utilizando o próprio banco de dados do Sistema Protheus. 
